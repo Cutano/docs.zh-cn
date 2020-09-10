@@ -10,7 +10,7 @@ ms.contentlocale: zh-CN
 ms.lasthandoff: 04/29/2020
 ms.locfileid: "82507437"
 ---
-# <a name="net-core-vs-net-framework-for-server-apps"></a>适用于服务器应用的 .NET Core 和. .NET Framework
+# <a name="net-core-vs-net-framework-for-server-apps"></a>适用于服务器应用的 .NET Core 和 .NET Framework
 
 有两种支持的 .NET 实现可用于生成服务器端应用：.NET Framework 和 .NET Core。 这两者共享许多相同的组件，可在它们之间共享代码。 但两者之间存在根本的差异，可根据需要实现的目标进行选择。 本文介绍了在何种情况下进行选择。
 
